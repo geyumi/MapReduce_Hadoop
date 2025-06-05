@@ -12,8 +12,6 @@ This project analyzes minute-level Bitcoin trading data from the `dataset btcusd
 
 The project aims to compute meaningful insights such as:
 
-    Highest and Lowest Prices per Day
-
     Average Close Price per Day
 
 The processing is done via **Hadoop MapReduce**.
