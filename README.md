@@ -45,7 +45,7 @@ List of tools, libraries, and configurations needed before running the project:
 
     Java (JDK 8 or higher)
 
-    Python
+    Python (3.12.4)
 
     Apache Hadoop (version 2.x or 3.x)
 
